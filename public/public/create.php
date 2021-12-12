@@ -1,12 +1,15 @@
 <!DOCTYPE html>
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
-</head>
+
 <body>
-<meta http-equiv="refresh" content="0;url=../create.php" />
+    <footer class="footer-basic">
+        <ul class="list-inline text-center">
+            <li class="list-inline-item"><a href="#">Start</a></li>
+            <li class="list-inline-item"><a href="#">Accounts</a></li>
+            <li class="list-inline-item"><a href="#">Over dit programma</a></li>
+        </ul>
+        <p class="copyright">Exchange Editor © 2021</p>
+    </footer>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
 </body>
+
 </html>
