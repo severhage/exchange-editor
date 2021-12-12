@@ -14,7 +14,7 @@
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item"><a class="nav-link" href="./public/show.php">Alias/doorstuuradressen bekijken</a></li>
-                    <li class="nav-item"><a class="nav-link" href="./public/create.php">doorstuuradres aanmaken</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./public/create.php">Doorstuuradres aanmaken</a></li>
                     <li class="nav-item"><a class="nav-link" href="./public/delete.php">Doorstuuradres verwijderen</a></li>
                 </ul>
             </div>
