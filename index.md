@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Wat is exchange-editor?
 
-You can use the [editor on GitHub](https://github.com/severhage/exchange-editor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Exchange-Editor is een softwarepakket voor op een postfix/dovecot server die gebruik maken van een maildatabase (zoals USE vmail;).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
