@@ -2,7 +2,8 @@
     include_once 'header.php';
 ?>
 
-<?php echo Hello World ?>
+<?php echo "Goedendag";
+?>
 
 <?php
     include_once 'footer.php';
